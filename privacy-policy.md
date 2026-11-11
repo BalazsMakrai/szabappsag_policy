@@ -1,46 +1,63 @@
-Privacy Policy  
-----------------
+# Szabadság – Adatkezelési tájékoztató
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at *SzabAppság*, how *SzabAppság* uses it, and what choices you have.
-*SzabAppság* built the *SzabAppság* app as a free app. This SERVICE is provided by *SzabAppság* at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+*Hatályos: 2026. november 11-től*
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+## 1. Az adatkezelő
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+- **Név:** [ADATKEZELŐ NEVE]
+- **Cím:** [CÍM]
+- **E-mail:** [KAPCSOLATI E-MAIL]
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+A Szabadság egy mobilalkalmazás, amellyel egy csoport (pl. család, kis csapat) közösen vezetheti tagjai szabadságait és egyéb távolléteit. Ez a tájékoztató leírja, milyen személyes adatokat kezelünk, milyen célból, és milyen jogaid vannak.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+## 2. Milyen adatokat kezelünk, és miért
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+| Adat | Cél | Jogalap |
+| --- | --- | --- |
+| E-mail-cím, jelszó (titkosított formában), Google- vagy Apple-fiók azonosítója | Regisztráció, belépés, e-mail-cím megerősítése, jelszó-visszaállítás | Szerződés teljesítése (GDPR 6. cikk (1) b)) |
+| A megadott név, a csoport neve, a csoporttagság | A csoport működése: a tagok látják egymás nevét és e-mail-címét | Szerződés teljesítése |
+| Felvett személyek neve és színe, munkarend, éves szabadságkeret, távollétek (dátum, típus, állapot, megjegyzés) | A szabadságok nyilvántartása és megjelenítése a csoport tagjainak | Szerződés teljesítése |
+| Megjelenési beállítás (világos/sötét téma), meghívókódok | Az alkalmazás beállításai, csatlakozás a csoporthoz | Szerződés teljesítése |
+| Hirdetési azonosító, IP-cím, eszköz- és használati adatok, hozzájárulási döntés | Hirdetések megjelenítése és mérése (Google AdMob) | Személyre szabott hirdetésnél hozzájárulás (6. cikk (1) a)); nem személyre szabott hirdetésnél és csalásmegelőzésnél jogos érdek (6. cikk (1) f)) |
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+A megjegyzés mezőbe ne írj egészségügyi vagy más különleges adatot (pl. a betegség okát). A „táppénz” típus csak a távollét tényét jelzi.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Az alkalmazás nem gyűjt helyadatot, fényképet, névjegyeket, és nem használ analitikai szolgáltatást.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+## 3. Kik látják az adatokat
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+**A csoport tagjai:** a csoportba felvett személyek, a távollétek és a keretek a csoport minden tagja számára láthatók. A tagok e-mail-címe a csoport többi tagja számára látszik.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+**Adatfeldolgozók:**
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *b.makrai@gmail.com*  
+- **Google Firebase** (Google Ireland Ltd. / Google LLC): belépés (Firebase Authentication) és adattárolás (Cloud Firestore). Az adatok a Google szerverein tárolódnak; EU-n kívüli (pl. egyesült államokbeli) továbbítás esetén a Google az Európai Bizottság általános szerződési feltételeit alkalmazza. [Firebase adatvédelem](https://firebase.google.com/support/privacy)
+- **Google AdMob** (Google Ireland Ltd.): hirdetések. Az EU-ban és az EGT-ben az alkalmazás az első indításkor hozzájárulást kér a személyre szabott hirdetésekhez. [Hogyan használja a Google a hirdetési adatokat](https://policies.google.com/technologies/ads)
+
+Adataidat nem adjuk el, és a fentieken kívül harmadik félnek nem adjuk át.
+
+## 4. Meddig őrizzük az adatokat
+
+Az adatokat a fiókod fennállásáig kezeljük. A fiók törlésekor (az alkalmazásban: **Beállítások → Fiók törlése**) a fiókod, a felhasználói adataid, a meghívóid és az általad kezelt személyek a távolléteikkel együtt azonnal törlődnek. Ha te vagy a csoport tulajdonosa, és vannak más tagok, a csoportot az általad kiválasztott tag veszi át; ha egyedül vagy, a csoport minden adatával megszűnik. Részletek: [Fiók és adatok törlése](account-deletion.md).
+
+## 5. A jogaid
+
+- hozzáférés az adataidhoz és másolat kérése,
+- helyesbítés (a legtöbb adat az alkalmazásban közvetlenül módosítható),
+- törlés („elfeledtetés”),
+- az adatkezelés korlátozása, adathordozhatóság,
+- tiltakozás a jogos érdeken alapuló adatkezelés ellen,
+- a hirdetési hozzájárulás bármikori visszavonása vagy módosítása az alkalmazásban: **Beállítások → Hirdetési adatvédelem**.
+
+Kérésedet a fenti e-mail-címen jelezheted; legfeljebb egy hónapon belül válaszolunk. Panaszt tehetsz a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (NAIH, 1055 Budapest, Falk Miksa utca 9–11., [naih.hu](https://naih.hu)), vagy bírósághoz fordulhatsz.
+
+## 6. Biztonság
+
+Az adatok titkosított kapcsolaton (HTTPS/TLS) keresztül utaznak. Az adatbázishoz hozzáférési szabályok tartoznak: egy csoport adatait csak a tagjai olvashatják, és mindenki csak a saját maga által kezelt adatokat módosíthatja.
+
+## 7. Gyermekek
+
+Az alkalmazás nem 16 éven aluliaknak készült, és tőlük tudatosan nem gyűjtünk adatot. Ha tudomásunkra jut, hogy 16 éven aluli adott meg adatot, azt töröljük.
+
+## 8. Változások
+
+Ha a tájékoztató lényegesen változik, az alkalmazásban vagy ezen az oldalon jelezzük. A hatályos változat mindig ezen az oldalon érhető el.
