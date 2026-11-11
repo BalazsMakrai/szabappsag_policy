@@ -4,9 +4,9 @@
 
 ## 1. Az adatkezelő
 
-- **Név:** [ADATKEZELŐ NEVE]
-- **Cím:** [CÍM]
-- **E-mail:** [KAPCSOLATI E-MAIL]
+- **Név:** Twin App Lab
+- **Cím:** 4034 Debrecen, Vendég utca 11
+- **E-mail:** twinapplab@gmail.com
 
 A Szabadság egy mobilalkalmazás, amellyel egy csoport (pl. család, kis csapat) közösen vezetheti tagjai szabadságait és egyéb távolléteit. Ez a tájékoztató leírja, milyen személyes adatokat kezelünk, milyen célból, és milyen jogaid vannak.
 
